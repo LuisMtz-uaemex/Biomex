@@ -1,0 +1,2 @@
+rootProject.name = "BioMex"
+include ':app'
